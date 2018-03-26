@@ -1,1 +1,1 @@
-<?php include_once("mystic.html"); ?>
+<?php include_once("Mystic.html"); ?>
