@@ -1,1 +1,1 @@
-<?php include_once("trash.html"); ?>
+<?php include_once("floatingtrash.html"); ?>
